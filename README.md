@@ -1,5 +1,5 @@
 # EnvFreePT-Windows
-摆脱依赖的网络渗透工具
+摆脱依赖环境的网络渗透工具（Windows版）
 
 ## Dirsearch
 
@@ -26,5 +26,6 @@ pyinstaller \
     --hidden-import=pyparsing
 ```
 
+## Fscan
 
-
+仓库：https://github.com/shadow1ng/fscan
